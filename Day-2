@@ -7,7 +7,7 @@ CREATE TABLE student (
 
 INSERT INTO student(first_name, last_name, email )
 	VALUES 
-('Kartik','Nayani','kartik@gmail.com'),
+('Kevin','Joshi','kevin@gmail.com'),
 ('Akash','Bhutka','akash@gmail.com'),
 ('Dhruvit','Gadhiya','dhruvit@gmail.com'),
 ('Sunny','Vagadiya','sunny@gmail.com'),
@@ -56,7 +56,7 @@ SELECT
 FROM
 	student
 WHERE
-	first_name = 'Akshay';
+	first_name = 'Kevin';
 
 
 SELECT
